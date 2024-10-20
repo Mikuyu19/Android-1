@@ -1,8 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>课后作业1</title>
 </head>
 <body><h1 id='android课后作业1'>Android课后作业1</h1>
 <p>完成课本36页：制作一个登录与注册界面</p>
