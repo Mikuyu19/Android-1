@@ -2,7 +2,7 @@
 <body><h1 id='android课后作业1'>Android课后作业1</h1>
 <p>完成课本36页：制作一个登录与注册界面</p>
 <p>源文件代码已上传至GitHub</p>
-<p>地址：</p>
+<p>地址：https://github.com/Mikuyu19/Android-1 </p>
 <h2 id='完成示例图'>完成示例图：</h2>
 <p><img src="https://s2.loli.net/2024/10/20/PhQ9R8cf2ItAsUX.jpg" alt="test.jpg" style="zoom:33%;" /></p>
 <p>制作相关代码</p>
